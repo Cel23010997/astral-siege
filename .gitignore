@@ -1,0 +1,12 @@
+.vs/
+.tmp/
+bin/
+obj/
+*.pdb
+*.obj
+*.ilk
+*.user
+*.log
+Extern/AlphaEngine/
+.env*
+web/.build/
